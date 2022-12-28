@@ -1,0 +1,29 @@
+body
+{
+background-image: linear-gradient(to right top, #ff0000, #6aff2e, #0048ff, #101111, #434343);
+}
+
+h1{
+    background-color: #000000;
+    color: white;
+}
+
+h2{
+    background-color: #000000;
+    color: aliceblue;
+}
+
+h3{
+    background-color: #000000;
+    color: aliceblue;
+}
+
+p{
+    background-color: #000000;
+    color: azure;
+}
+
+h4{
+    background-color: #000000;
+    color: white;
+}
